@@ -1,0 +1,4 @@
+Armstrong, J. S. (Ed.). (2001). Principles of forecasting: A handbook for researchers and practitioners. Kluwer Academic Publishers
+Ord, J. K., Fildes, R., & Kourentzes, N. (2017). Principles of business forecasting (2nd ed.). Wessex Press Publishing Co
+Cleveland, W. S. (1993). Visualizing data. Hobart Press
+Unwin, A. (2015). Graphical data analysis with R. Chapman; Hall/CRC
